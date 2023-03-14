@@ -5,7 +5,7 @@
 Clone the repository into any directory.
 
 ```bash
-git clone https://github.com/michaelcmarafino/knews-app.git
+git clone https://github.com/michaelcmarafino/react-native-prototype.git
 
 ```
 
